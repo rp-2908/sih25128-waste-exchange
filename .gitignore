@@ -1,0 +1,20 @@
+# Node.js dependencies (if you later use npm)
+node_modules/
+
+# Python cache (if you later use Flask/Django)
+__pycache__/
+*.pyc
+
+# Database files
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files (API keys, configs)
+.env
